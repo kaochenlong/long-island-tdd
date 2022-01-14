@@ -5,5 +5,12 @@
   "author": {
     "name": "Kao Chien Long",
     "email": "eddie@5xcamp.us"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
   }
 }
